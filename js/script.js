@@ -20,3 +20,42 @@ Predisporre un campo di input testuale e un pulsante "aggiungi": cliccando sul p
 2 - cliccando sul testo dell'item, invertire il valore della proprietà done del task corrispondente (se done era uguale a false, impostare true e viceversa)
 Allego screen di riferimento, ma sulla grafica siete liberi di fare come preferite: faccia_leggermente_sorridente:
 */
+
+const lists = [
+    {
+        text: 'comprare il latte',
+        done: 'false',
+
+    },
+    {
+        text: 'studiare',
+        done: 'true',
+
+    },
+    {
+        text: 'viaggiare',
+        done: 'false',
+
+    },
+    {
+        text: 'andare al cinema',
+        done: 'false',
+
+    },
+    {
+        text: 'cambiare nome',
+        done: 'false',
+
+    },
+    {
+        text: 'portare la macchina dal dottore',
+        done: 'false',
+
+    },
+    {
+        text: 'diventare il dottore',
+        done: 'false',
+
+    },
+
+]
