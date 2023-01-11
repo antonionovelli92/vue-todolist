@@ -1,0 +1,11 @@
+li {
+    cursor: pointer;
+}
+
+li:hover {
+    box-shadow: 0 0 5px greenyellow;
+}
+
+li .underline {
+    text-decoration: line-through;
+}
